@@ -27,18 +27,19 @@ kakaoShareBtn.addEventListener("click", () => {
       description: '버튼 클릭해서 랜덤 고양이 사진 보기 😺',
       imageUrl: catImage.src || 'https://placekitten.com/400/300', 
       link: {
-        mobileWebUrl: 'https://username.github.io/random-cat-site/',
-        webUrl: 'https://username.github.io/random-cat-site/'
+        mobileWebUrl: 'https://soyun11.github.io/random-cat-site/',
+        webUrl: 'https://soyun11.github.io/random-cat-site/'
       }
     },
     buttons: [
       {
         title: '고양이 보러가기',
         link: {
-          mobileWebUrl: 'https://username.github.io/random-cat-site/',
-          webUrl: 'https://username.github.io/random-cat-site/'
+          mobileWebUrl: 'https://soyun11.github.io/random-cat-site/',
+          webUrl: 'https://soyun11.github.io/random-cat-site/'
         }
       }
     ]
   });
 });
+
